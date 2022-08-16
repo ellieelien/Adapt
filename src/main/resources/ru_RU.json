@@ -1,24 +1,24 @@
 {
   "Snippets": {
     "GUI": {
-      "Level": "Level",
+      "Level": "Уровень",
       "Knowledge": "Знания",
       "PowerUsed": "Power Used",
-      "NotLearned": "Not Learned",
+      "NotLearned": "Не изучено",
       "XP": "XP to"
     },
     "AdaptMenu": {
       "KnowledgeCost": "Knowledge Cost",
-      "AlreadyLearned": "Already Learned",
+      "AlreadyLearned": "Уже выученно",
       "UnlearnRefund": "Click to Unlearn & Refund",
-      "Knowledge": "Knowledge",
-      "ClickLearn": "Click to Learn",
+      "Knowledge": "Зниний",
+      "ClickLearn": "Нажмите, чтобы выучить",
       "NoKnowledge": "(You don't have any Knowledge)",
       "YouOnlyHave": "You only have",
       "HowToLevelUp": "Level up skills to increase your max power.",
       "NotEnoughPower": "Not enough power! Each Ability Level costs 1 power.",
-      "Power": "Power",
-      "Learned": "Learned ",
+      "Power": "Сила",
+      "Learned": "Выучено",
       "Unlearned": "Unlearned "
     },
     "KnowledgeOrb": {
@@ -30,7 +30,7 @@
     },
     "ExperienceOrb": {
       "Contains": "Contains",
-      "XP": "Experience",
+      "XP": "Опыт",
       "RightClick": "Right-Click",
       "ToGainXP": "to gain this experience",
       "XPOrb": "Experience Orb"
@@ -590,12 +590,12 @@
     "UnarmedPower": {
       "Name": "Unarmed Power",
       "Description": "Improved Unarmed Damage",
-      "Lore1": "Damage"
+      "Lore1": "Урон"
     },
     "SuckerPunch": {
       "Name": "Sucker Punch",
       "Description": "Sprint punches, but more deadly.",
-      "Lore1": "Damage",
+      "Lore1": "Урон",
       "Lore2": "Damage increases by with your speed while punching"
     }
   }
