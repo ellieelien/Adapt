@@ -3,9 +3,9 @@
     "GUI": {
       "Level": "Уровень",
       "Knowledge": "Знания",
-      "PowerUsed": "Power Used",
+      "PowerUsed": "Использование энергии",
       "NotLearned": "Не изучено",
-      "XP": "XP to"
+      "XP": "Опыт для"
     },
     "AdaptMenu": {
       "KnowledgeCost": "Knowledge Cost",
